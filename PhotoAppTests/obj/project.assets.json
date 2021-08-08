@@ -5721,11 +5721,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/simranpuri/Projects/PhotoApp/PhotoAppTests/PhotoAppTests.csproj",
+      "projectUniqueName": "/Users/simranpuri/Documents/GitHub/PhotoApp/PhotoAppTests/PhotoAppTests.csproj",
       "projectName": "PhotoAppTests",
-      "projectPath": "/Users/simranpuri/Projects/PhotoApp/PhotoAppTests/PhotoAppTests.csproj",
+      "projectPath": "/Users/simranpuri/Documents/GitHub/PhotoApp/PhotoAppTests/PhotoAppTests.csproj",
       "packagesPath": "/Users/simranpuri/.nuget/packages/",
-      "outputPath": "/Users/simranpuri/Projects/PhotoApp/PhotoAppTests/obj/",
+      "outputPath": "/Users/simranpuri/Documents/GitHub/PhotoApp/PhotoAppTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/simranpuri/.config/NuGet/NuGet.Config"

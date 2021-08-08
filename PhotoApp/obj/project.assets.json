@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/simranpuri/Projects/PhotoApp/PhotoApp/PhotoApp.csproj",
+      "projectUniqueName": "/Users/simranpuri/Documents/GitHub/PhotoApp/PhotoApp/PhotoApp.csproj",
       "projectName": "PhotoApp",
-      "projectPath": "/Users/simranpuri/Projects/PhotoApp/PhotoApp/PhotoApp.csproj",
+      "projectPath": "/Users/simranpuri/Documents/GitHub/PhotoApp/PhotoApp/PhotoApp.csproj",
       "packagesPath": "/Users/simranpuri/.nuget/packages/",
-      "outputPath": "/Users/simranpuri/Projects/PhotoApp/PhotoApp/obj/",
+      "outputPath": "/Users/simranpuri/Documents/GitHub/PhotoApp/PhotoApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/simranpuri/.config/NuGet/NuGet.Config"

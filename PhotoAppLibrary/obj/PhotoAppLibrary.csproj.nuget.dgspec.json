@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/simranpuri/Projects/PhotoApp/PhotoAppLibrary/PhotoAppLibrary.csproj": {}
+    "/Users/simranpuri/Documents/GitHub/PhotoApp/PhotoAppLibrary/PhotoAppLibrary.csproj": {}
   },
   "projects": {
-    "/Users/simranpuri/Projects/PhotoApp/PhotoAppLibrary/PhotoAppLibrary.csproj": {
+    "/Users/simranpuri/Documents/GitHub/PhotoApp/PhotoAppLibrary/PhotoAppLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/simranpuri/Projects/PhotoApp/PhotoAppLibrary/PhotoAppLibrary.csproj",
+        "projectUniqueName": "/Users/simranpuri/Documents/GitHub/PhotoApp/PhotoAppLibrary/PhotoAppLibrary.csproj",
         "projectName": "PhotoAppLibrary",
-        "projectPath": "/Users/simranpuri/Projects/PhotoApp/PhotoAppLibrary/PhotoAppLibrary.csproj",
+        "projectPath": "/Users/simranpuri/Documents/GitHub/PhotoApp/PhotoAppLibrary/PhotoAppLibrary.csproj",
         "packagesPath": "/Users/simranpuri/.nuget/packages/",
-        "outputPath": "/Users/simranpuri/Projects/PhotoApp/PhotoAppLibrary/obj/",
+        "outputPath": "/Users/simranpuri/Documents/GitHub/PhotoApp/PhotoAppLibrary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/simranpuri/.config/NuGet/NuGet.Config"
