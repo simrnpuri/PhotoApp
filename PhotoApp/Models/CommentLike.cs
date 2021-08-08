@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Instagram.Models
+namespace PhotoApp.Models
 {
 	public class CommentLike
 	{

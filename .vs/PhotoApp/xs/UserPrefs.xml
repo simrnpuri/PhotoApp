@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{20625AAD-7ACF-4A15-92F9-9C1AEA3F5DEA}|Default">
+  <MonoDevelop.Ide.ItemProperties.PhotoApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PhotoApp/appsettings.json">
+    <Files>
+      <File FileName="PhotoApp/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PhotoApp" expanded="True">
+            <Node name="PhotoApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="Users" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+            <Node name="PhotoAppLibrary" expanded="True" />
+            <Node name="PhotoAppTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

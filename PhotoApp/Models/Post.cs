@@ -19,7 +19,7 @@ namespace PhotoApp.Models
         [Required]
         public string UserID { get; set; }
 
-        [StringLength(400, ErrorMessage = "Caption cannot be longer than 400 characters.")]
+        [StringLength(400, ErrorMessage = "Max 400 characters.")]
         [DisplayFormat(NullDisplayText = "No caption")]
         public string Caption { get; set; }
 

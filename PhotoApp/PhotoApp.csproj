@@ -7,5 +7,6 @@
   <ItemGroup>
     <Folder Include="Views\Posts\" />
     <Folder Include="Views\Comments\" />
+    <Folder Include="Views\Users\" />
   </ItemGroup>
 </Project>
