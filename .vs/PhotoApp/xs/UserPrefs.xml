@@ -1,26 +1,24 @@
 ﻿<Properties StartupConfiguration="{20625AAD-7ACF-4A15-92F9-9C1AEA3F5DEA}|Default">
   <MonoDevelop.Ide.ItemProperties.PhotoApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PhotoApp/appsettings.json">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="PhotoApp/appsettings.json" Line="1" Column="1" />
+      <File FileName="PhotoApp/Migrations/20210808210320_Initial.cs" Line="1" Column="1" />
+      <File FileName="PhotoApp/Migrations/20210808210320_Initial.Designer.cs" Line="1" Column="1" />
+      <File FileName="PhotoAppLibrary/Class1.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="PhotoApp" expanded="True">
-            <Node name="PhotoApp" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
-                <Node name="Shared" expanded="True" />
-                <Node name="Users" expanded="True" />
-              </Node>
-              <Node name="appsettings.json" selected="True" />
+            <Node name="PhotoAppLibrary" expanded="True">
+              <Node name="Dependencies" selected="True" />
             </Node>
-            <Node name="PhotoAppLibrary" expanded="True" />
-            <Node name="PhotoAppTests" expanded="True" />
+            <Node name="PhotoAppTests" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
