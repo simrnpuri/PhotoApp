@@ -8,5 +8,7 @@
     <Folder Include="Views\Posts\" />
     <Folder Include="Views\Comments\" />
     <Folder Include="Views\Users\" />
+    <Folder Include="Data\" />
+    <Folder Include="Migrations\" />
   </ItemGroup>
 </Project>
