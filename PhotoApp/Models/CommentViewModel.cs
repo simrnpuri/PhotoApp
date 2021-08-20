@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PhotoApp.Models
 {
-    public class CommentView
+    public class CommentViewModel
     {
         [Required]
         [StringLength(300, ErrorMessage = "Max 300 characters.")]
