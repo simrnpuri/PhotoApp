@@ -2,16 +2,41 @@
   <MonoDevelop.Ide.ItemProperties.PhotoApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="PhotoApp/Migrations/20210808210320_Initial.cs" Line="1" Column="1" />
-      <File FileName="PhotoApp/Migrations/20210808210320_Initial.Designer.cs" Line="1" Column="1" />
-      <File FileName="PhotoAppLibrary/Class1.cs" Line="1" Column="1" />
+      <File FileName="PhotoApp/Views/Comments/Create.cshtml" Line="1" Column="1" />
+      <File FileName="PhotoApp/Views/Comments/Delete.cshtml" Line="1" Column="1" />
+      <File FileName="PhotoApp/Views/Comments/Details.cshtml" Line="1" Column="1" />
+      <File FileName="PhotoApp/Views/Comments/Edit.cshtml" Line="1" Column="1" />
+      <File FileName="PhotoApp/Views/Comments/Index.cshtml" Line="1" Column="1" />
+      <File FileName="PhotoApp/Models/Comment.cs" Line="1" Column="1" />
+      <File FileName="PhotoApp/Models/CommentLike.cs" Line="1" Column="1" />
+      <File FileName="PhotoApp/Models/CommentView.cs" Line="21" Column="1" />
+      <File FileName="PhotoApp/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="PhotoApp/Models/Post.cs" Line="1" Column="1" />
+      <File FileName="PhotoApp/Models/PostLike.cs" Line="1" Column="1" />
+      <File FileName="PhotoApp/Models/PostViewModel.cs" Line="1" Column="1" />
+      <File FileName="PhotoApp/Models/User.cs" Line="1" Column="1" />
+      <File FileName="PhotoApp/Data/DbInitializer.cs" Line="18" Column="1" />
+      <File FileName="PhotoApp/Data/PhotoAppContext.cs" Line="1" Column="1" />
+      <File FileName="PhotoApp/Controllers/CommentsController.cs" Line="58" Column="1" />
+      <File FileName="PhotoApp/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="PhotoApp/Controllers/PostController.cs" Line="45" Column="10" />
+      <File FileName="PhotoApp/Controllers/UsersController.cs" Line="1" Column="1" />
+      <File FileName="PhotoApp/appsettings.Development.json" Line="14" Column="1" />
+      <File FileName="PhotoApp/PaginatedList.cs" Line="45" Column="2" />
+      <File FileName="PhotoApp/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="PhotoApp" expanded="True">
+            <Node name="PhotoApp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
             <Node name="PhotoAppLibrary" expanded="True">
-              <Node name="Dependencies" selected="True" />
+              <Node name="ConnectedServicesFolder" selected="True" />
             </Node>
             <Node name="PhotoAppTests" expanded="True">
               <Node name="Dependencies" expanded="True">
